@@ -76,7 +76,6 @@ This structure ensures rapid navigation for technical and non-technical reviewer
 * **`LICENSE`**: Legal guidelines for project use.
 
 ---
-
 ## 🤝 Connect with the Analyst
 
 **Hossam Amr** – *Advanced Data Analyst | Data Strategist*  
@@ -99,10 +98,3 @@ This structure ensures rapid navigation for technical and non-technical reviewer
 
 **Professional Note:**  
 I leverage advanced data analytics to turn complex datasets into strategic insights. I welcome collaborative opportunities, professional discussions, and projects that drive measurable impact. Connect via LinkedIn, explore my work on GitHub, or view detailed case studies in my portfolio.
-
-| Platform | Contact Details |
-| :--- | :--- |
-| **LinkedIn** | [Connect for Strategic Insights](https://www.linkedin.com/in/hossamamr2002/) |
-| **Portfolio** | [View My Data Science Portfolio]() |
-| **GitHub** | [Explore My Other Projects](https://github.com/yourusername) |
-| **Email** | [My Email](hossam.amr2710@gmail.com) |
