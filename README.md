@@ -22,7 +22,7 @@ The insights are anchored in a robust and clean dataset, ensuring accuracy and r
 
 | Component | Detail |
 | :--- | :--- |
-| **Data Source** | [Raw transactional and campaign data](https://github.com/HOSSAM-AMRR/Sales-Marketing-Strategy-Review/blob/main/sales_data.csv). |
+| **Data Source** | [Raw transactional and campaign data](https://github.com/HOSSAM-AMRR/Sales-Marketing-Strategy-Review/blob/main/Data/sales_data.csv). |
 | **Tools Used** |  [Power BI ,DAX ,ETL ,Dimentional Modeling]. |
 | **Methodology** | Data cleaning, KPI definition (e.g., Conversion Rate calculation), segmentation by channel, and MoM trend analysis. |
 
@@ -35,12 +35,12 @@ The project utilizes two integrated dashboards, providing immediate, multi-level
 ### 3.1. Sales & Marketing Overview (Macro View)
 * *Focus:* Financial health (Revenue, Profit) and Campaign ROI.
 
-![Sales-Marketing-Strategy-Review.png](https://github.com/HOSSAM-AMRR/Sales-Marketing-Strategy-Review/blob/main/sales-details-product-performance.png)
+![Sales-Marketing-Strategy-Review.png](https://github.com/HOSSAM-AMRR/Sales-Marketing-Strategy-Review/blob/main/Images/sales-details-product-performance.png)
 
 ### 3.2. Sales Details (Micro View)
 * *Focus:* Product-level profitability, inventory velocity, and customer satisfaction (Ratings).
 
-![Sales-Marketing-Strategy-Review.png](https://github.com/HOSSAM-AMRR/Sales-Marketing-Strategy-Review/blob/main/sales-marketing-overview.png)
+![Sales-Marketing-Strategy-Review.png](https://github.com/HOSSAM-AMRR/Sales-Marketing-Strategy-Review/blob/main/Images/sales-marketing-overview.png)
 
 ---
 
